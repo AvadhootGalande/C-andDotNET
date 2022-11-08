@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.exe.config
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.exe
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\bin\Debug\ConsoleApp_Assignment.pdb
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.exe
+C:\Users\Avadhoot.Galande\source\repos\ConsoleApp_Assignment\ConsoleApp_Assignment\obj\Debug\ConsoleApp_Assignment.pdb
