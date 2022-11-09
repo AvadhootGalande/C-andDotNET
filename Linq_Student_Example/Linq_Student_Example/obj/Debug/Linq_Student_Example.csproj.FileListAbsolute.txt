@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\bin\Debug\Linq_Student_Example.exe.config
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\bin\Debug\Linq_Student_Example.exe
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\bin\Debug\Linq_Student_Example.pdb
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\obj\Debug\Linq_Student_Example.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\obj\Debug\Linq_Student_Example.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\obj\Debug\Linq_Student_Example.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\obj\Debug\Linq_Student_Example.exe
+C:\Users\Avadhoot.Galande\source\repos\Linq_Student_Example\Linq_Student_Example\obj\Debug\Linq_Student_Example.pdb

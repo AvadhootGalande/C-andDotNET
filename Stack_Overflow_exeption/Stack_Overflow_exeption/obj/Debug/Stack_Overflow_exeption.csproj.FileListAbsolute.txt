@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\bin\Debug\Stack_Overflow_exeption.exe.config
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\bin\Debug\Stack_Overflow_exeption.exe
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\bin\Debug\Stack_Overflow_exeption.pdb
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\obj\Debug\Stack_Overflow_exeption.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\obj\Debug\Stack_Overflow_exeption.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\obj\Debug\Stack_Overflow_exeption.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\obj\Debug\Stack_Overflow_exeption.exe
+C:\Users\Avadhoot.Galande\source\repos\Stack_Overflow_exeption\Stack_Overflow_exeption\obj\Debug\Stack_Overflow_exeption.pdb

@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\bin\Debug\Emp_Sorting_Program.exe.config
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\bin\Debug\Emp_Sorting_Program.exe
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\bin\Debug\Emp_Sorting_Program.pdb
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\obj\Debug\Emp_Sorting_Program.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\obj\Debug\Emp_Sorting_Program.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\obj\Debug\Emp_Sorting_Program.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\obj\Debug\Emp_Sorting_Program.exe
+C:\Users\Avadhoot.Galande\source\repos\Emp_Sorting_Program\Emp_Sorting_Program\obj\Debug\Emp_Sorting_Program.pdb
