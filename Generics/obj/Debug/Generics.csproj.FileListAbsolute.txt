@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\bin\Debug\Generics.exe.config
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\bin\Debug\Generics.exe
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\bin\Debug\Generics.pdb
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\obj\Debug\Generics.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\obj\Debug\Generics.exe
+C:\Users\Avadhoot.Galande\source\repos\Assignmnet 2\Generics\obj\Debug\Generics.pdb

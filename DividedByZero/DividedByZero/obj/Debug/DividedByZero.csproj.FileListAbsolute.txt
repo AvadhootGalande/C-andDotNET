@@ -1,0 +1,8 @@
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\bin\Debug\DividedByZero.exe.config
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\bin\Debug\DividedByZero.exe
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\bin\Debug\DividedByZero.pdb
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\obj\Debug\DividedByZero.csproj.AssemblyReference.cache
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\obj\Debug\DividedByZero.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\obj\Debug\DividedByZero.csproj.CoreCompileInputs.cache
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\obj\Debug\DividedByZero.exe
+C:\Users\Avadhoot.Galande\source\repos\DividedByZero\DividedByZero\obj\Debug\DividedByZero.pdb
